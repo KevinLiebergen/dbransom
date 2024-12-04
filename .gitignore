@@ -1,0 +1,7 @@
+# Code
+.idea/
+__pycache__/
+output/
+
+
+paper/
